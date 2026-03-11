@@ -38,3 +38,5 @@ gcc -o cub3 main.c graphic.c map.c parcing.c utils.c -I/path/to/mlx -L/path/to/m
 Notes
 - Le fichier `cub3.h` inclut maintenant `mlx.h`. Assurez-vous que le header `mlx.h` est présent dans `./mlx` ou dans un path système.
 - Si vous rencontrez des erreurs de compilation, collez-les ici et je vous aiderai à les corriger.
+
+  Project developed as part of the 42 Network curriculum.
